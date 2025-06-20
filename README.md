@@ -1,7 +1,7 @@
 # Coca-Cola_USA_Retail_Dashboard
 
  ## Project Overview
-   This project showcase a dynamic dashboard built to analyze Coca-Cola's retail sales performance across beverage brands and retailers in the USA for the years 2022 and 2023. It includes metrics such as total sales, units sold, average price, and total operating profit.
+ This project showcase a dynamic dashboard built to analyze Coca-Cola's retail sales performance across beverage brands and retailers in the USA for the years 2022 and 2023. It includes metrics such as total sales, units sold, average price, and total operating profit.
 
  ### Features
    - Total Sales
@@ -28,7 +28,7 @@
 - 2023 showed improved operating margins, particularly in Q2 and Q3
 
 ### Data Source
-
+coca-cola Data: The primary dataset used for this analysis is the "Coca cola Report.xlsx" file, containing detailed about total sales, units sold, and average price
 
 ### Limitation
 - Dataset is limited to only two years(2022 & 2023)
@@ -37,6 +37,14 @@
 ### Recommendation
 - Focus marketing and distribution efforts on top-performing retailers (FizzyCo, BevCo)
 - Analyze regional performance to tailor local campaigns
+
+### Screenshot
+![Coca-cola Dashboard](https://github.com/user-attachments/assets/cfaaf2a9-41e0-4856-ad2f-aabc4a7ebec7)
+
+
+### Author
+Adedoyin: Data Analyst
+
 
 
 
